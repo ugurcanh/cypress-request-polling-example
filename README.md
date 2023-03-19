@@ -1,4 +1,4 @@
-# cypress-request-polling-example
+# :shamrock: cypress-request-polling-example :shamrock:
 
 Hey everyone!
 
